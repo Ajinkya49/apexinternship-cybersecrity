@@ -1,0 +1,14 @@
+# Never commit private keys, passphrases, or scratch crypto material
+*.key
+*.pem
+*.enc
+*.bin
+*.pass
+**/openssl-demo-workdir/
+# Packet captures can contain sensitive data - review before committing
+*.pcap
+*.pcapng
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
