@@ -55,3 +55,13 @@ ip -br addr                 # Kali eth1 = 192.168.56.10 ?
 ping -c 2 192.168.56.20     # target up?
 ```
 Snapshot both VMs first (`Machine → Take Snapshot`); scanners can crash old VMs.
+=======
+# apexinternship-cybersecrity
+
+ApexPlanet Software Pvt. Ltd. — **Cybersecurity & Ethical Hacking Internship**
+
+| Task | Title | Folder | Status |
+|------|-------|--------|--------|
+| 1 | Foundation & Environment Setup (Days 1–12) | [`Task-1/`](Task-1/README.md) | Documentation drafted — evidence capture in progress |
+
+> **Ethical-use notice:** every activity in this repository is performed only on systems I own or explicitly control (my own Kali Linux VM, Metasploitable2, DVWA, `localhost`) inside an isolated VirtualBox Host-Only network. See [Task-1/README.md](Task-1/README.md#4-ethical-use-and-authorization).db140ad34f312619fa6e72c13f36b285070eff5c
